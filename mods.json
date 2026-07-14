@@ -1,0 +1,12 @@
+[
+  {
+    "version": "1.21.11",
+    "name": "fabric-api-0.141.4-1.21.11.jar",
+    "url": "https://raw.githubusercontent.com/TabletkBoost/fabric-api/main/fabric-api-0.141.4-1.21.11.jar"
+  },
+  {
+    "version": "1.16.5",
+    "name": "fabric-api-0.42.01.16.jar",
+    "url": "https://raw.githubusercontent.com/TabletkBoost/fabric-api/main/fabric-api-0.42.01.16.jar"
+  }
+]
